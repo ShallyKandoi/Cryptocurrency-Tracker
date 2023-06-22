@@ -1,4 +1,4 @@
-CRYPTOCURRENCY FINANCE PRICE TRACKER
+CRYPTOCURRENCY TRACKER
 
 Deployed on https://cryptocurrency-tracker-five.vercel.app/
 
